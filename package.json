@@ -1,15 +1,15 @@
 {
-  "name": "don devil",
+  "name": "𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷",
   "version": "10.8.1",
-  "description": "don devil latest multi device whatsapp bot",
+  "description": "𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷 latest multi device whatsapp bot",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js"
   },
-  "keywords": ["don devil", "whatsapp-bot", "whatsapp md bot"],
-  "author": "wasi",
+  "keywords": ["𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷", "whatsapp-bot", "whatsapp md bot"],
+  "author": "𝛥𝑅𝑌𝛥𝛮",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
