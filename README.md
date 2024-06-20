@@ -4,8 +4,8 @@
 #### if you want to copy this  bot or modifay it so [contact me on telegram](t.me/wasitech) i will provide you whole source code
 
 <p align="center">
-  <a href="https://youtu.com/@wasitech1">
-    <img alt="DEVIL-MD" height="300" src="[[https://telegra.ph/file/804ef84588df13e0d5f0a.jpg]]
+  <a href="https://youtube.com/@aryanedit3688">
+    <img alt="𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷" height="300" src="[[https://telegra.ph/file/804ef84588df13e0d5f0a.jpg]]
   </a>
 </p>
 53db32a36cb3c58b0https
@@ -13,19 +13,19 @@
   <a href="https://github.com/don-devil"><img title="Author" src="https://img.shields.io/badge/don-devil-black?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
-<p align="center">Introducing DEVIL-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
+<p align="center">Introducing 𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
 
 <p align="center">
-  <a aria-label="𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷 is free to use" href="https://youtu.com/@wasitech1" target="_blank">
-    <img alt="WASI" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
+  <a aria-label="𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷 is free to use" href="[https://youtube.com/@aryanedit3688]" target="_blank">
+    <img alt="𝛥𝑅𝑌𝛥�" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="Itxxwasi :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{aryan}/count.svg" alt="aryan :: Visitor's Count" /></p>
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.youtube.com/@wasitech1"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://youtube.com/@aryanedit3688"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img src="https://img.shields.io/badge/Join WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
