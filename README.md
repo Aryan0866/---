@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://youtu.com/@wasitech1">
-    <img alt="DEVIL-MD" height="300" src="[[https://telegra.ph/file/53db32a36cb3c58b0https://telegra.ph/file/53db32a36cb3c58b0f575.jpg]]
+    <img alt="DEVIL-MD" height="300" src="[[https://telegra.ph/file/804ef84588df13e0d5f0a.jpg]]
   </a>
 </p>
 53db32a36cb3c58b0https
