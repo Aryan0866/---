@@ -54,7 +54,7 @@ async function start() {
 
     let { state, saveCreds } = await useMultiFileAuthState(sessionName);
     let { version, isLatest } = await fetchLatestBaileysVersion();
-    console.log(chalk.red("WASI-SER"));
+    console.log(chalk.red("𝛥𝑅𝑌𝛥𝛮-𝑅𝛥𝐽𝛲𝛩𝛩𝑇"));
     console.log(chalk.green(`using WA v${version.join(".")}, isLatest: ${isLatest}`));
 
     const Device = (os.platform() === 'win32') ? 'Windows' : (os.platform() === 'darwin') ? 'MacOS' : 'Linux';
@@ -106,7 +106,7 @@ async function start() {
 
     // Manage Device Logging
     if (!Matrix.authState.creds.registered && isSessionPutted) {
-        const sessionID = config.SESSION_ID.split('DEVIL-MD&')[1];
+        const sessionID = config.SESSION_ID.split('𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷&')[1];
         const pasteUrl = `https://pastebin.com/raw/${sessionID}`;
         const response = await fetch(pasteUrl);
         const text = await response.text();
@@ -170,7 +170,7 @@ Matrix.ev.on("connection.update", async update => {
     if (connection === "open") {
         if (initialConnection) {
             console.log(chalk.green("😃 Integration Successful️ ✅"));
-            Matrix.sendMessage(Matrix.user.id, { text: `😃 WASI SER EDITX CONNECTED SUCESSFULY ENJOYYY✅` });
+            Matrix.sendMessage(Matrix.user.id, { text: `😃 𝛥𝑅𝑌𝛥𝛮 𝑅𝛥𝐽𝛲𝛩𝛩𝑇 EDITX CONNECTED SUCESSFULY ENJOYYY✅` });
             initialConnection = false;
         } else {
             console.log(chalk.blue("♻️ Connection reestablished after restart."));
