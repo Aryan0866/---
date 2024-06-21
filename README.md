@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@aryanedit3688">
-    <img alt="𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷" height="300" src="[[https://telegra.ph/file/804ef84588df13e0d5f0a.jpg]]
+    <img alt="𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷" height="300" src="[[https://telegra.ph/file/6bc596f5b4bb5387f8d4e.jpg]]
   </a>
 </p>
 53db32a36cb3c58b0https
